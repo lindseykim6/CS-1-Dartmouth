@@ -1,0 +1,14 @@
+START| JUNGLE, DESERT| Once upon a time, there lived a man named Abraham. He wanted to go on an an adventure somewhere in the wilderness. Where should he start his adventure? a. the jungle or b. the desert
+DESERT|| Abraham goes to the Sahara desert, but he was not prepared! He dies that night due to overheating and dehydration. The end.
+JUNGLE| LOOK_FOR_SHELTER, LOOK_FOR_FOOD, HAVE_FUN| Abraham ends up in the jungle! He is fascinated by all the animals and wildlife around him. What should he do first? a. look for shelter b. look for food or c. have fun
+HAVE_FUN|| Abraham decides to go have fun. First, he treks through the rainforest and admires all the biodiversity in the rainforest. Then, he goes swimming in the river. This was not a good idea. An electric eel shocks him and he dies. The end.
+LOOK_FOR_FOOD|EAT_BERRIES, HUNT| Abraham thinks its best if he looks for food. He doesn't know if he should eat the berries that are around him or try to kill an animal. Help Abraham decide. Should he a. eat the berries or b. try to hunt?
+EAT_BERRIES|| Abraham eats the berries. He suddenly does not feel good. He realizes the berries were poisonous and dies. The end.
+HUNT| FISH, DEER| Abraham is getting hungry and decides to eat meat for dinner. Should he a. fish with his hands or b. kill a deer?
+FISH|| Abraham decides to fish. He makes a net out of vines and goes into the river. An electric eel shocks him and he dies. The end.
+DEER| TRAP, BOW_AND_ARROW| Abraham decides to hunt for deer. Should he a. make a trap for the deer or b. make a bow and arrow?
+TRAP|| Abraham fashions a trap with a net made from vines and a hole he dug in the ground. He waits for the deer to fall into the trap. However, it never does. Abraham ends up starving. The end.
+BOW_AND_ARROW|LOOK_FOR_SHELTER, HAVE_FUN| Abraham creates a bow and arrow from scratch. He shoots the deer and succeeds. He then starts a campfire with the lighter in his pocket, and he cooks the meat. He eats until he's satisfied. What should he do next? a. find shelter b. have fun
+LOOK_FOR_SHELTER|GO_INSIDE_CAVE, BUILD_HUT| Abraham decides to look for shelter. He has no clue where to start. As he scopes out his options, he stumbles upon a cave. Should he a. go inside the cave b. leave it alone and try to build a hut?
+GO_INSIDE_CAVE|| Abraham goes inside the cave and ends up running into a bear. The bear attacks him, and you can guess the rest. The end.
+BUILD_HUT|| Abraham builds a hut but accidentally steps on a snake. You can guess the rest. The end.
